@@ -4,4 +4,6 @@ There are some changes I made: I add some loading and fading animations, search 
 
 Just run: `npm i` then `npm start` 'cause we had all in this zip file.
 
+I uploaded the .env file just for testing.
+
 Thank you.
